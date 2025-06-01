@@ -1,5 +1,5 @@
 ## Sou o Caio 👋
- - **👨🏾‍💻 Estudante de Sistemas de Informação- PUC Minas**
+ - **🎓 Estudante de Sistemas de Informação- PUC Minas**
  - **👨🏾‍💻 Atualmente aprimorando meus conhecimentos em C#**
 
 ## Ferramentas e tecnologias
